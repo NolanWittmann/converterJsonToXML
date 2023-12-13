@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <name>John Doe</name>
+  <age>30</age>
+  <city>New York</city>
+  <skills>JavaScript</skills>
+  <skills>HTML</skills>
+  <skills>CSS</skills>
+  <isStudent>false</isStudent>
+  <grades>
+    <math>90</math>
+    <english>85</english>
+    <history>78</history>
+  </grades>
+</root>
